@@ -1,0 +1,17 @@
+
+
+    /* ---------------------------------------
+    ##### - PLACE YOUR CUSTOM CSS HERE - #####
+    --------------------------------------- */
+    .logosty{
+        color: #fbb710;
+            font-size: 20px;
+            margin-top: 1rem;
+    }
+    .product-img{
+        width: 500px;
+        height:500px
+    }
+    .imgsty{
+        padding: 2rem;;
+    }
